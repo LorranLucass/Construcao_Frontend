@@ -3,3 +3,5 @@
 ## LORRAN LUCAS DE ALMEIDA 
 
 ## 2024 / 2°
+
+### Iniciando com GIT
